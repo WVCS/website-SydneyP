@@ -1,3 +1,29 @@
-body {
+ body {
+  background-color: #080b2b;
+  
+}
+h2{
+  color: lightpink;
+  font-size: 200%;
+  text-decoration-line: underline;
+  text-decoration-color: #8F2D56;  
+  text-decoration-style: wavy;  
+  letter-spacing: 10px;
 
+}
+#img2 {
+  position:fixed;
+  top:10px;
+  left:10px;
+  width: 7%;
+  
+}
+img:hover {
+  border: dotted pink;
+}
+#img1 {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 7%;
 }
